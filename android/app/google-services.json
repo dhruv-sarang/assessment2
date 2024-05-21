@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201640849950",
+    "project_id": "rto-android",
+    "storage_bucket": "rto-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201640849950:android:ff0c2e71a5926b025b340f",
+        "android_client_info": {
+          "package_name": "com.example.rto_assessment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0UnuRuN8OX5dTy7gCgZHtFEl3Ng06gaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
